@@ -39,11 +39,11 @@
   </p>
 </div>
 
-#Run Hopscotch (Blueman) Locally Guide
-##Prerequisites
+# Run Hopscotch (Blueman) Locally Guide
+## Prerequisites
 - Install `pnpm`: `npm install -g pnpm`
 
-##Steps
+## Steps
 1. Git clone from [here]
 2. Open the repo in your IDE
 3. Rename `example-env` to `.env`
