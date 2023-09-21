@@ -10,6 +10,7 @@
           paddingLeft: platform.ui?.appHeader?.paddingLeft?.value,
         }"
       >
+        <img src="../../../public/AMEX.png" alt="AMEX Logo" style="height: 3rem;">
         <HoppButtonSecondary
           class="tracking-wide !font-bold !text-secondaryDark hover:bg-primaryDark focus-visible:bg-primaryDark uppercase"
           :label="t('app.name')"
